@@ -1,6 +1,8 @@
 This project was produced for PHS866 as part of the Clinical Scientific Computing course at Liverpool University. 
 
-This document is a readme to aid in using the project the web application is currently live at 
+This document is a readme to aid in using the project the web application is currently live at https://phys866-model-sam-mccaughran-513d18b2c906.herokuapp.com/
+
+The files for this project are also available at https://github.com/Sam-McCaughran/PHYS866_Part1
 
 <h2>Structure</h2>
 <h3>File List</h3>
